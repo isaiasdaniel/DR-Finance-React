@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DR Finance</string>
+    <string name="title_activity_main">DR Finance</string>
+    <string name="package_name">com.drtecnology.drfinance</string>
+    <string name="custom_url_scheme">com.drtecnology.drfinance</string>
+</resources>

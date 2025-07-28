@@ -1,0 +1,10 @@
+{
+  "appId": "com.drtecnology.drfinance",
+  "appName": "DR Finance",
+  "webDir": "dist",
+  "plugins": {
+    "CapacitorSQLite": {
+      "iosDatabaseLocation": "Library/CapacitorDatabase"
+    }
+  }
+}
